@@ -1,24 +1,292 @@
-# 💫 About Me:
-# <div align="center"><br><br><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Prathmesh+Yadav;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN+Stack;AI%2FML+Enthusiast;Building+Scalable+Software" alt="Typing SVG"/><br><br><p><br><a href="https://github.com/Prathmesh-Yadav0269"><br><img src="https://img.shields.io/github/followers/Prathmesh-Yadav0269?style=for-the-badge&logo=github&color=181717"/><br></a><br><br><a href="https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269"><br><img src="https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269&style=for-the-badge&color=0e75b6"/><br></a><br><br><a href="https://prathmesh-portfolio-five.vercel.app/"><br><img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge"/><br></a><br><br><a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/"><br><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/><br></a><br></p><br><br></div><br><br>---<br><br># 💫 About Me<br><br>```text<br>🎓 Final Year Computer Science Engineering Student<br><br>💻 Passionate about Backend Development,<br>   Full Stack Engineering and AI-powered Applications<br><br>🚀 Currently Learning<br>   • Spring Boot<br>   • System Design<br>   • Microservices<br>   • Docker<br><br>🎯 Goal<br>   Become a Software Development Engineer<br>   building scalable distributed applications.<br>```<br><br>---<br><br># 🚀 Featured Projects<br><br>## 🌟 Insight AI – AI Operations Consultant<br><br>AI-powered Business Intelligence platform that converts CSV/Excel datasets into meaningful operational insights.<br><br>### Features<br><br>* Dataset Upload<br>* Data Cleaning<br>* Column Profiling<br>* AI Root Cause Analysis<br>* AI Recommendations<br>* Natural Language Chat<br>* MongoDB Storage<br><br>**Tech Stack**<br><br>```<br>React<br>Node.js<br>Express<br>MongoDB<br>Gemma AI<br>Python<br>```<br><br>---<br><br>## 🌐 Personal Portfolio<br><br>Modern animated developer portfolio built using React ecosystem.<br><br>### Features<br><br>* Responsive UI<br>* Framer Motion Animations<br>* 3D Elements<br>* Glassmorphism<br>* Contact Form<br><br>**Tech**<br><br>```<br>React<br>Three.js<br>Tailwind CSS<br>Framer Motion<br>```<br><br>🔗 https://prathmesh-portfolio-five.vercel.app/<br><br>---<br><br>## 📋 OPSYNC<br><br>Role-Based Productivity Platform<br><br>Features<br><br>* Authentication<br>* Kanban Board<br>* Real-time Chat<br>* File Upload<br>* Task Management<br><br>Tech<br><br>```<br>MERN Stack<br>Socket.io<br>JWT<br>MongoDB<br>```<br><br>---<br><br># 🛠 Tech Stack<br><br>## Languages<br><br><p><br><img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/><br></p><br><br>## Frontend<br><br><p><br><img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/><br></p><br><br>## Backend<br><br><p><br><img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/><br></p><br><br>## Tools<br><br><p><br><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman"/><br></p><br><br>---<br><br># 📊 GitHub Analytics<br><br><p align="center"><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&theme=tokyonight&hide_border=true"/><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&theme=tokyonight&hide_border=true"/><br><br></p><br><br>---<br><br># 🔥 GitHub Streak<br><br><p align="center"><br><br><img src="https://streak-stats.demolab.com?user=Prathmesh-Yadav0269&theme=tokyonight&hide_border=true"/><br><br></p><br><br>---<br><br># 📈 Contribution Graph<br><br><p align="center"><br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh-Yadav0269&theme=tokyo-night&hide_border=true"/><br><br></p><br><br>---<br><br># 🏆 GitHub Trophies<br><br><p align="center"><br><br><img src="https://github-profile-trophy.vercel.app/?username=Prathmesh-Yadav0269&theme=algolia&no-frame=true&row=1&column=7"/><br><br></p><br><br>---<br><br># ⚡ Current Focus<br><br>* Java DSA<br>* Spring Boot<br>* Microservices<br>* System Design<br>* Docker<br>* Full Stack Development<br>* AI-powered Applications<br><br>---<br><br># 📚 Currently Exploring<br><br>```text<br>✓ Advanced Java<br><br>✓ Spring Security<br><br>✓ REST APIs<br><br>✓ Redis<br><br>✓ Kafka<br><br>✓ Docker<br><br>✓ Kubernetes<br><br>✓ AWS<br>```<br><br>---<br><br># 🤝 Connect With Me<br><br><p align="center"><br><br><a href="https://prathmesh-portfolio-five.vercel.app/"><br><img src="https://skillicons.dev/icons?i=webstorm" height="45"/><br></a><br><br><a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/"><br><img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br></a><br><br><a href="mailto:YOUR_EMAIL@gmail.com"><br><img src="https://skillicons.dev/icons?i=gmail" height="45"/><br></a><br><br><a href="https://github.com/Prathmesh-Yadav0269"><br><img src="https://skillicons.dev/icons?i=github" height="45"/><br></a><br><br></p><br><br>---<br><br># 💡 Developer Philosophy<br><br>> **"Great software is built by continuously learning, solving real-world problems, and writing clean, scalable code."**<br><br>---<br><br># 🐍 Contribution Snake<br><br>> Enable GitHub Actions and use **Platane/snk** to generate an animated contribution snake:<br><br>```yaml<br>name: Generate Snake<br><br>on:<br>  schedule:<br>    - cron: "0 */12 * * *"<br>  workflow_dispatch:<br><br>jobs:<br>  build:<br>    runs-on: ubuntu-latest<br><br>    steps:<br>      - uses: Platane/snk@v3<br>        with:<br>          github_user_name: Prathmesh-Yadav0269<br>          outputs: |<br>            dist/github-contribution-grid-snake.svg<br><br>      - uses: crazy-max/ghaction-github-pages@v4<br>        with:<br>          target_branch: output<br>          build_dir: dist<br>        env:<br>          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}<br>```<br><br>Then add:<br><br>```md<br><p align="center"><br><img src="https://raw.githubusercontent.com/Prathmesh-Yadav0269/Prathmesh-Yadav0269/output/github-contribution-grid-snake.svg"><br></p><br>```<br><br>---<br><br><div align="center"><br><br>### ⭐ Thanks for visiting my profile!<br><br>**If you like my work, consider giving a ⭐ to my repositories!**<br><br></div><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=220&section=header&text=PRATHMESH%20YADAV&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%7C%20Full%20Stack%20%2F%20AI-ML&descSize=18&descAlignY=58" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-yadav-a8959b293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshyadav02698818@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prathmesh-Yadav0269&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Prathmesh-Yadav0269&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathmesh-Yadav0269&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://prathmesh-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=0EA5E9" />
+</a>
+<a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
+</a>
+<a href="mailto:prathmeshyadav0269@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" />
+</a>
+<a href="https://github.com/Prathmesh-Yadav0269">
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prathmesh-Yadav0269&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prathmesh-Yadav0269&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%2B+Spring+Boot+Developer;Full+Stack+%7C+MERN+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
 
----
-[![](https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269&icon=6&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Followers](https://img.shields.io/github/followers/Prathmesh-Yadav0269?style=flat-square&color=0EA5E9&labelColor=0F172A&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+## `01` About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Who I Am**
+
+> Final-year Computer Science Engineering student, obsessed with backend engineering, distributed systems, and shipping products end-to-end.
+
+- 🎓 Final Year CSE Student
+- ⚙️ Backend Engineering — **Java** & **Spring Boot**
+- 🌐 Full Stack Development — **MERN**
+- 🤖 Exploring **AI / ML** integrations in real products
+- 🚀 Building software that scales
+
+</td>
+<td width="50%" valign="top">
+
+**Current Focus**
+
+- `Java` Data Structures & Algorithms
+- `Spring Boot` REST APIs & Microservices
+- `System Design` for scale
+- `Docker` & Cloud-native deployment
+
+**Long-Term Goal**
+
+> Become a Software Engineer who designs and ships scalable, production-grade systems.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,threejs&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,linux&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+## `03` GitHub Analytics
+
+<div align="center">
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=E2E8F0&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh-Yadav0269&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="70%"/>
+
+</div>
+
+<br/>
+
+## `04` Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh-Yadav0269&theme=react-dark&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=E2E8F0&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## `05` Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh-Yadav0269&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+## `06` Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Insight AI
+
+AI-powered Business Intelligence platform for turning raw datasets into decisions.
+
+- Dataset upload & CSV analysis
+- AI-driven insights & root cause analysis
+- Recommendation engine
+- Natural language chat over data
+- MongoDB-backed storage
+
+`React` `Node.js` `Express` `MongoDB` `Python` `Gemma AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+Modern, immersive personal portfolio site.
+
+- Built with React & Three.js
+- Tailwind CSS styling system
+- Framer Motion animations
+- Fully responsive, modern UI
+
+`React` `Three.js` `Tailwind CSS` `Framer Motion`
+
+**[→ Live Site](https://prathmesh-portfolio-five.vercel.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 OPSYNC
+
+Real-time task and project management platform.
+
+- Secure authentication with JWT
+- Kanban-style task board
+- Real-time updates via Socket.io
+- MongoDB persistence layer
+
+`MongoDB` `Express` `Socket.io` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 Java Sorting Algorithms
+
+Repository dedicated to mastering sorting algorithms in Java for placement preparation.
+
+- Clean, well-documented implementations
+- Complexity analysis per algorithm
+- Built for interview & placement prep
+
+`Java` `DSA` `Algorithms`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `07` Learning Journey
+
+<div align="center">
+
+`Java` → `Spring Boot` → `System Design` → `Microservices` → `Docker` → `AWS` → `Redis` → `Kafka`
+
+</div>
+
+Currently deep-diving into distributed systems fundamentals — designing for scale, fault tolerance, and clean service boundaries — while strengthening core Java and DSA for technical interviews.
+
+<br/>
+
+## `08` Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prathmesh-Yadav0269/Prathmesh-Yadav0269/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<details>
+<summary><b>⚙️ Setup: enable the snake animation on your own profile</b></summary>
+<br/>
+
+1. Create a new file at `.github/workflows/snake.yml` in this repository.
+2. Paste the workflow below:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit, push, and run the workflow once manually from the **Actions** tab.
+4. The SVG above will populate automatically after the first run.
+
+</details>
+
+<br/>
+
+## `09` Connect With Me
+
+<div align="center">
+
+<a href="https://prathmesh-portfolio-five.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=0EA5E9" />
+</a>
+<a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
+</a>
+<a href="mailto:prathmeshyadav0269@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" />
+</a>
+<a href="https://github.com/Prathmesh-Yadav0269">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Simplicity is the ultimate sophistication in engineering."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
