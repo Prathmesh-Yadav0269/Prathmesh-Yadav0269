@@ -15,67 +15,31 @@
 
 <br>
 
-| 01 · Identity | 01 · Mission |
-|---|---|
-| Backend-oriented engineering with a focus on clarity, structure, and reliable delivery. | Build systems that are understandable, maintainable, and practical to evolve. |
+<img src="assets/identity-mission.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 02 / IDENTITY OVERVIEW ]</code>
 <sub>Signal, context, and focus.</sub>
 
-| | |
-|---|---|
-| **Primary Role** | Software Engineer |
-| **Focus** | Backend Systems |
-| **Strength** | Practical Delivery |
-| **Value** | Maintainability |
-| **Current** | Cloud Native — learning systems and delivery patterns |
-| **Context** | Reliability · Clarity · Delivery |
+<img src="assets/identity-overview.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 03 / CAPABILITY RELATIONSHIP MAP ]</code>
 <sub>Signal mapped across systems and interfaces.</sub>
 
-```
-Java (Backend)
-   ↳ REST APIs (Services)
-       ↳ MERN Stack (Interface)
-           ↳ AI Workflows (Applications)
-```
-
-| Signal | Area |
-|---|---|
-| Primary | Backend Systems |
-| Secondary | AI / ML |
-| Learning | Cloud Native |
+<img src="assets/capability-map.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 04 / DELIVERY DASHBOARD ]</code>
 <sub>Operational signal without narrative overhead.</sub>
 
-**Runtime**
-
-`Core`      ████████████████████░░ 90%
-`Systems`   ███████████████████░░░ 84%
-`Delivery`  ████████████████████░░ 88%
-
-| Delivery Mode | Value |
-|---|---|
-| Architecture | Structured |
-| Observability | Explicit |
-| Iteration | Practical |
+<img src="assets/runtime-dashboard.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 05 / WORKFLOW SIGNAL ]</code>
 <sub>Compact flow, clear direction.</sub>
 
-| Build | Review | Refine |
-|---|---|---|
-| Systems | Code | Design |
+<img src="assets/workflow-tiles.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
@@ -86,160 +50,69 @@ Java (Backend)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 07 / CAPABILITY FOCUS ]</code>
 <sub>Current emphasis shown as signal blocks.</sub>
 
-| Skill | Depth |
-|---|---|
-| Java | ██████████████████░░ 90% |
-| DSA | █████████████████░░░ 84% |
-| Systems | █████████████████░░░ 86% |
-| Cloud | ██████████████░░░░░░ 72% |
+<img src="assets/capability-focus.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 08 / TECHNOLOGY ECOSYSTEM ]</code>
 <sub>Compact capability surface, not a category list.</sub>
 
-| Category | Tools |
-|---|---|
-| **Java** | Backend, Algorithms |
-| **APIs** | REST, Services |
-| **MERN** | React, Node |
-| **Data** | Mongo, SQL |
-| **DevOps** | Docker, CI |
-| **Cloud** | Infra, Deploy |
-| **AI** | ML, Workflow |
-| **Tools** | Git, Debug |
+<img src="assets/tech-matrix.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 09 / FEATURED ENGINEERING WORK ]</code>
 <sub>Each project condensed into a compact panel.</sub>
 
-| Project | Status | Stack | Purpose |
-|---|---|---|---|
-| **InsightIQ** | 🟡 In Progress | Java · JS | Backend exploration |
-| **OPSYNC** | 🟡 In Progress | Design · Docker | Coordination workflow |
-| **Portfolio** | 🟢 Maintaining | HTML · CSS | Profile UI |
-| **Java Sorting Algorithms** | 🔵 Learning | Java · DSA | Problem solving |
-| **Migraine Guardian** | 🟣 AI/ML | Python · Data | ML workflow focus |
+<img src="assets/projects-grid.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 10 / CAPABILITY STACK ]</code>
 <sub>Strengths and learning areas rendered as modules.</sub>
 
-| Core | Comfortable | Learning |
-|---|---|---|
-| Backend, Systems, Problem Solving | Java, JavaScript, SQL | Cloud, Docker, Distributed Systems |
+<img src="assets/skills-stack.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 11 / REPOSITORY SURFACE ]</code>
 <sub>Repository context shown as compact cards.</sub>
 
-| Repo | Tag | Context | Stack |
-|---|---|---|---|
-| **Portfolio** | Flagship | Static profile interface | HTML · CSS · Design |
-| **Migraine Guardian** | AI/ML | AI-oriented project context | Python · Data · ML |
-| **InsightIQ** | Learning | Backend-oriented exploration | Java · JS · Backend |
-| **Java Sorting Algorithms** | Study | Algorithm study surface | Java · DSA · Algorithms |
+<img src="assets/repo-tiles.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 12 / ENGINEERING DASHBOARD ]</code>
 <sub>Context, signal, and direction in one scan.</sub>
 
-**Repository Overview**
-
-| | |
-|---|---|
-| Surface | Portfolio |
-| Signal | Java systems |
-| Learning | Cloud |
-| Context | Open repositories |
-
-**GitHub Context**
-
-| | |
-|---|---|
-| Activity | Visible as context |
-| Languages | Java · JavaScript · SQL |
-| Profile | Simple public signal |
+<img src="assets/engineering-dashboard.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 13 / LEARNING DASHBOARD ]</code>
-<sub>Progress shown through compact bars.</sub>
+<sub>Progress shown through compact modules.</sub>
 
-**Current Study**
-
-`Java`    ██████████████████░░ 90%
-`Cloud`   ██████████████░░░░░░ 72%
-`Docker`  ████████████░░░░░░░░ 64%
-
-**Building Knowledge**
-
-`CI/CD`   ████████████░░░░░░░░ 60%
-`DS`      █████████████░░░░░░░ 68%
-`Systems` ██████████████░░░░░░ 74%
+<img src="assets/learning-dashboard.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 14 / ROADMAP TIMELINE ]</code>
-<sub>Forward direction captured in compact steps.</sub>
+<sub>Forward direction captured as a timeline.</sub>
 
-- [ ] **Java** — Deepen backend fundamentals
-- [ ] **Distributed Systems** — Strengthen service boundaries
-- [ ] **Docker** — Grow practical delivery familiarity
-- [ ] **Cloud** — Increase deployment fluency
-- [ ] **System Design** — Connect scale with clarity
+<img src="assets/roadmap-timeline.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 15 / ARCHITECTURE BLUEPRINT ]</code>
 <sub>Key architectural values represented visually.</sub>
 
-`Modularity` · `Clear Boundaries` · `API Design` · `Observability`
+<img src="assets/architecture-blueprint.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 16 / DEVELOPER CONSOLE ]</code>
 <sub>Terminal state and runtime signal.</sub>
 
-```
-┌─ workspace / build ──────────────────────┐
-│ $ Boot sequence started                  │
-│ > Runtime preparing                       │
-│ > Loading engineering modules...          │
-│   ✓ Java                                  │
-│   ✓ MERN                                  │
-│   ✓ Docker                                │
-│   ✓ Distributed Systems                   │
-│   ✓ AI Integration                        │
-│ Status: INITIALIZING                      │
-└────────────────────────────────────────────┘
-```
-
-**Runtime State**
-
-`Core`     ██████████████████░░ 90%
-`Systems`  █████████████████░░░ 84%
-`Delivery` ██████████████████░░ 88%
-
-`Ready` · `Observe` · `Scale`
+<img src="assets/terminal-console.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
-### <code>[ 17 / PRINCIPLE SIGNALS ]</code>
 <sub>Short values, built for scan speed.</sub>
 
-> Readable systems endure.
-
-> Architecture is communication.
-
-> Good abstractions justify their cost.
+<img src="assets/principle-quotes.svg" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c1426,50:65b4ff,100:0c1426&height=2&section=header" width="100%"/>
 
