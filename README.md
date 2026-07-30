@@ -84,12 +84,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&icon_color=B58BFF&text_color=f3f7ff" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&text_color=f3f7ff" alt="Top Languages" width="35%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&icon_color=B58BFF&text_color=f3f7ff" alt="GitHub Stats" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&text_color=f3f7ff" alt="Top Languages" width="35%"/>
 
 </div>
-
-<sub>If a card above doesn't render, it's a temporary outage on the public stats service — just refresh the page, it self-corrects within a few minutes.</sub>
 
 ---
 
