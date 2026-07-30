@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-65B4FF?style=for-the-badge&logo=vercel&logoColor=060816)](https://prathmesh-portfolio-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-65B4FF?style=for-the-badge&logo=linkedin&logoColor=060816)](https://www.linkedin.com/in/prathmesh-yadav-a8959b293/)
-[![Email](https://img.shields.io/badge/EMAIL-65B4FF?style=for-the-badge&logo=gmail&logoColor=060816)](mailto:prathmeshyadav0269@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-65B4FF?style=for-the-badge&logo=github&logoColor=060816)](https://github.com/Prathmesh-Yadav0269)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060816?style=for-the-badge&logo=vercel&logoColor=65B4FF)](https://prathmesh-portfolio-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060816?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/prathmesh-yadav-a8959b293/)
+[![Email](https://img.shields.io/badge/Email-060816?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:prathmeshyadav0269@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-060816?style=for-the-badge&logo=github&logoColor=B58BFF)](https://github.com/Prathmesh-Yadav0269)
 
 ![Followers](https://img.shields.io/github/followers/Prathmesh-Yadav0269?style=flat-square&color=65B4FF&labelColor=060816&label=FOLLOWERS)
 ![Profile Views](https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269&style=flat-square&color=B58BFF&labelColor=060816&label=PROFILE%20VIEWS)
@@ -22,21 +22,12 @@
 
 ## 01 · About
 
-> Final-year Computer Science Engineering student, obsessed with backend engineering, distributed systems, and shipping products end-to-end.
+> Final-year CSE student building backend systems, full-stack products, and AI-integrated tools — end to end.
 
-**Focus areas**
-- Backend Engineering — Java & REST APIs
-- Full Stack Development — MERN
-- AI / ML-integrated products
-- System design for scale
-
-**Currently learning**
-- Distributed systems & microservice patterns
-- Docker & cloud-native deployment
-- Redis & Kafka fundamentals
-
-**Long-term goal**
-> Become a Software Engineer who designs and ships scalable, production-grade systems.
+- ⚙️ Backend — Java & REST APIs
+- 🌐 Full Stack — MERN
+- 🤖 AI / ML-integrated products
+- 🎯 Learning: distributed systems, Docker, Redis, Kafka
 
 ---
 
@@ -45,47 +36,47 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-060816?style=flat-square&logo=openjdk&logoColor=65B4FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-060816?style=flat-square&logo=javascript&logoColor=B58BFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-060816?style=flat-square&logo=typescript&logoColor=65B4FF)
-![Python](https://img.shields.io/badge/Python-060816?style=flat-square&logo=python&logoColor=B58BFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-060816?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-060816?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-060816?style=flat-square&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-060816?style=flat-square&logo=cplusplus&logoColor=65B4FF)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-060816?style=flat-square&logo=react&logoColor=65B4FF)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-060816?style=flat-square&logo=tailwindcss&logoColor=B58BFF)
-![ThreeJS](https://img.shields.io/badge/Three.js-060816?style=flat-square&logo=threedotjs&logoColor=65B4FF)
-![HTML5](https://img.shields.io/badge/HTML5-060816?style=flat-square&logo=html5&logoColor=B58BFF)
-![CSS3](https://img.shields.io/badge/CSS3-060816?style=flat-square&logo=css3&logoColor=65B4FF)
+![React](https://img.shields.io/badge/React-060816?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-060816?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![ThreeJS](https://img.shields.io/badge/Three.js-060816?style=flat-square&logo=threedotjs&logoColor=B58BFF)
+![HTML5](https://img.shields.io/badge/HTML5-060816?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-060816?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/Node.js-060816?style=flat-square&logo=nodedotjs&logoColor=65B4FF)
+![NodeJS](https://img.shields.io/badge/Node.js-060816?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-060816?style=flat-square&logo=express&logoColor=B58BFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-060816?style=flat-square&logo=fastapi&logoColor=65B4FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-060816?style=flat-square&logo=fastapi&logoColor=009688)
 
 **Database**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-060816?style=flat-square&logo=mongodb&logoColor=65B4FF)
-![MySQL](https://img.shields.io/badge/MySQL-060816?style=flat-square&logo=mysql&logoColor=B58BFF)
-![Redis](https://img.shields.io/badge/Redis-060816?style=flat-square&logo=redis&logoColor=65B4FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060816?style=flat-square&logo=postgresql&logoColor=B58BFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-060816?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-060816?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-060816?style=flat-square&logo=redis&logoColor=DC382D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-060816?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-060816?style=flat-square&logo=amazonaws&logoColor=65B4FF)
-![Docker](https://img.shields.io/badge/Docker-060816?style=flat-square&logo=docker&logoColor=B58BFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-060816?style=flat-square&logo=kubernetes&logoColor=65B4FF)
-![Git](https://img.shields.io/badge/Git-060816?style=flat-square&logo=git&logoColor=B58BFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-060816?style=flat-square&logo=githubactions&logoColor=65B4FF)
-![Linux](https://img.shields.io/badge/Linux-060816?style=flat-square&logo=linux&logoColor=B58BFF)
+![AWS](https://img.shields.io/badge/AWS-060816?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-060816?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-060816?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Git](https://img.shields.io/badge/Git-060816?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-060816?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-060816?style=flat-square&logo=linux&logoColor=FCC624)
 
 **Tools**
 
-![Postman](https://img.shields.io/badge/Postman-060816?style=flat-square&logo=postman&logoColor=65B4FF)
-![VSCode](https://img.shields.io/badge/VS%20Code-060816?style=flat-square&logo=visualstudiocode&logoColor=B58BFF)
-![Figma](https://img.shields.io/badge/Figma-060816?style=flat-square&logo=figma&logoColor=65B4FF)
-![Vercel](https://img.shields.io/badge/Vercel-060816?style=flat-square&logo=vercel&logoColor=B58BFF)
+![Postman](https://img.shields.io/badge/Postman-060816?style=flat-square&logo=postman&logoColor=FF6C37)
+![VSCode](https://img.shields.io/badge/VS%20Code-060816?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-060816?style=flat-square&logo=figma&logoColor=B58BFF)
+![Vercel](https://img.shields.io/badge/Vercel-060816?style=flat-square&logo=vercel&logoColor=65B4FF)
 
 ---
 
@@ -93,42 +84,27 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&count_private=true&hide_border=true&bg_color=060816&title_color=65B4FF&icon_color=B58BFF&text_color=f3f7ff" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&bg_color=060816&title_color=65B4FF&text_color=f3f7ff&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&icon_color=B58BFF&text_color=f3f7ff" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&theme=dark&bg_color=060816&title_color=65B4FF&text_color=f3f7ff" alt="Top Languages" width="35%"/>
 
 </div>
+
+<sub>If a card above doesn't render, it's a temporary outage on the public stats service — just refresh the page, it self-corrects within a few minutes.</sub>
 
 ---
 
 ## 04 · Featured Builds
 
-### 🧠 Insight AI
-AI-powered Business Intelligence platform for turning raw datasets into decisions.
-- Dataset upload & CSV analysis
-- AI-driven insights & root cause analysis
-- Recommendation engine · natural language chat over data · MongoDB-backed storage
+**🧠 Insight AI** — AI-powered BI platform turning raw datasets into decisions. Dataset ingestion, AI-driven insights, recommendation engine, natural-language chat over data.
+`React` `Node.js` `Express` `MongoDB` `Python`
 
-`React` `Node.js` `Express` `MongoDB` `Python` · AI/ML
+**🌐 Personal Portfolio** — Immersive portfolio with 3D interaction, Tailwind design system, Framer Motion animation.
+`React` `Three.js` `Tailwind` `Framer Motion` — **[Live →](https://prathmesh-portfolio-five.vercel.app/)**
 
-### 🌐 Personal Portfolio
-Modern, immersive personal portfolio site with real-time 3D interaction.
-- Built with React & Three.js · Tailwind CSS design system
-- Framer Motion animations · fully responsive UI
-
-`React` `Three.js` `Tailwind CSS` `Framer Motion` — **[Live Site →](https://prathmesh-portfolio-five.vercel.app/)**
-
-### 📋 OPSYNC
-Real-time task and project management platform.
-- Secure authentication with JWT · Kanban-style task board
-- Real-time updates via Socket.io · MongoDB persistence layer
-
+**📋 OPSYNC** — Real-time task & project management. JWT auth, Kanban board, live updates via Socket.io.
 `MongoDB` `Express` `Socket.io` `JWT`
 
-### 🔢 Java Sorting Algorithms
-Repository dedicated to mastering sorting algorithms in Java for placement preparation.
-- Clean, well-documented implementations · complexity analysis per algorithm
-- Built for interview & placement prep
-
+**🔢 Java Sorting Algorithms** — Clean, documented sorting algorithm implementations with complexity analysis, built for interview prep.
 `Java` `DSA` `Algorithms`
 
 ---
@@ -137,18 +113,16 @@ Repository dedicated to mastering sorting algorithms in Java for placement prepa
 
 `Java` → `REST APIs` → `System Design` → `Microservices` → `Docker` → `AWS` → `Redis` → `Kafka`
 
-> Currently deep-diving into distributed systems fundamentals — designing for scale, fault tolerance, and clean service boundaries — while strengthening core Java and DSA for technical interviews.
-
 ---
 
 ## 06 · Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-65B4FF?style=for-the-badge&logo=vercel&logoColor=060816)](https://prathmesh-portfolio-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-65B4FF?style=for-the-badge&logo=linkedin&logoColor=060816)](https://www.linkedin.com/in/prathmesh-yadav-a8959b293/)
-[![Email](https://img.shields.io/badge/Email-65B4FF?style=for-the-badge&logo=gmail&logoColor=060816)](mailto:prathmeshyadav0269@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-65B4FF?style=for-the-badge&logo=github&logoColor=060816)](https://github.com/Prathmesh-Yadav0269)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060816?style=for-the-badge&logo=vercel&logoColor=65B4FF)](https://prathmesh-portfolio-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060816?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/prathmesh-yadav-a8959b293/)
+[![Email](https://img.shields.io/badge/Email-060816?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:prathmeshyadav0269@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-060816?style=for-the-badge&logo=github&logoColor=B58BFF)](https://github.com/Prathmesh-Yadav0269)
 
 <br/>
 
