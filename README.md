@@ -1,292 +1,258 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=220&section=header&text=PRATHMESH%20YADAV&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot%20%7C%20Full%20Stack%20%2F%20AI-ML&descSize=18&descAlignY=58" width="100%"/>
+# PRATHMESH YADAV
 
-<br/>
+**Software Engineer building backend-oriented systems with a focus on clarity, reliability, and practical delivery.**
 
-<a href="https://prathmesh-portfolio-five.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=0EA5E9" />
-</a>
-<a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
-</a>
-<a href="mailto:prathmeshyadav0269@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" />
-</a>
-<a href="https://github.com/Prathmesh-Yadav0269">
-  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9" />
-</a>
+`Backend` · `Java` · `Practical Systems`
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%2B+Spring+Boot+Developer;Full+Stack+%7C+MERN+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
-
-<br/>
-
-![Followers](https://img.shields.io/github/followers/Prathmesh-Yadav0269?style=flat-square&color=0EA5E9&labelColor=0F172A&label=FOLLOWERS)
-![Profile Views](https://komarev.com/ghpvc/?username=Prathmesh-Yadav0269&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-68e1a8?style=for-the-badge&labelColor=0c1426)
+![Focus](https://img.shields.io/badge/Backend%20Engineering-65b4ff?style=for-the-badge&labelColor=0c1426)
+![Stack](https://img.shields.io/badge/Docker%20%2B%20Cloud-7b8cff?style=for-the-badge&labelColor=0c1426)
+![AI](https://img.shields.io/badge/AI%20Integration-b58bff?style=for-the-badge&labelColor=0c1426)
 
 </div>
 
-<br/>
-
-## `01` About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Who I Am**
-
-> Final-year Computer Science Engineering student, obsessed with backend engineering, distributed systems, and shipping products end-to-end.
-
-- 🎓 Final Year CSE Student
-- ⚙️ Backend Engineering — **Java** & **Spring Boot**
-- 🌐 Full Stack Development — **MERN**
-- 🤖 Exploring **AI / ML** integrations in real products
-- 🚀 Building software that scales
-
-</td>
-<td width="50%" valign="top">
-
-**Current Focus**
-
-- `Java` Data Structures & Algorithms
-- `Spring Boot` REST APIs & Microservices
-- `System Design` for scale
-- `Docker` & Cloud-native deployment
-
-**Long-Term Goal**
-
-> Become a Software Engineer who designs and ships scalable, production-grade systems.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `02` Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,threejs&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgres&theme=dark" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions,linux&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-## `03` GitHub Analytics
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Yadav0269&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-Yadav0269&layout=compact&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=E2E8F0&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmesh-Yadav0269&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="70%"/>
-
-</div>
-
-<br/>
-
-## `04` Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathmesh-Yadav0269&theme=react-dark&bg_color=0F172A&color=0EA5E9&line=0EA5E9&point=E2E8F0&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## `05` Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathmesh-Yadav0269&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-## `06` Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Insight AI
-
-AI-powered Business Intelligence platform for turning raw datasets into decisions.
-
-- Dataset upload & CSV analysis
-- AI-driven insights & root cause analysis
-- Recommendation engine
-- Natural language chat over data
-- MongoDB-backed storage
-
-`React` `Node.js` `Express` `MongoDB` `Python` `Gemma AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-Modern, immersive personal portfolio site.
-
-- Built with React & Three.js
-- Tailwind CSS styling system
-- Framer Motion animations
-- Fully responsive, modern UI
-
-`React` `Three.js` `Tailwind CSS` `Framer Motion`
-
-**[→ Live Site](https://prathmesh-portfolio-five.vercel.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 OPSYNC
-
-Real-time task and project management platform.
-
-- Secure authentication with JWT
-- Kanban-style task board
-- Real-time updates via Socket.io
-- MongoDB persistence layer
-
-`MongoDB` `Express` `Socket.io` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔢 Java Sorting Algorithms
-
-Repository dedicated to mastering sorting algorithms in Java for placement preparation.
-
-- Clean, well-documented implementations
-- Complexity analysis per algorithm
-- Built for interview & placement prep
-
-`Java` `DSA` `Algorithms`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `07` Learning Journey
-
-<div align="center">
-
-`Java` → `Spring Boot` → `System Design` → `Microservices` → `Docker` → `AWS` → `Redis` → `Kafka`
-
-</div>
-
-Currently deep-diving into distributed systems fundamentals — designing for scale, fault tolerance, and clean service boundaries — while strengthening core Java and DSA for technical interviews.
-
-<br/>
-
-## `08` Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prathmesh-Yadav0269/Prathmesh-Yadav0269/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<details>
-<summary><b>⚙️ Setup: enable the snake animation on your own profile</b></summary>
-<br/>
-
-1. Create a new file at `.github/workflows/snake.yml` in this repository.
-2. Paste the workflow below:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br>
+
+| 01 · Identity | 01 · Mission |
+|---|---|
+| Backend-oriented engineering with a focus on clarity, structure, and reliable delivery. | Build systems that are understandable, maintainable, and practical to evolve. |
+
+---
+
+## 02 / Identity Overview
+*Signal, context, and focus.*
+
+| | |
+|---|---|
+| **Primary Role** | Software Engineer |
+| **Focus** | Backend Systems |
+| **Strength** | Practical Delivery |
+| **Value** | Maintainability |
+| **Current** | Cloud Native — learning systems and delivery patterns |
+| **Context** | Reliability · Clarity · Delivery |
+
+---
+
+## 03 / Capability Relationship Map
+*Signal mapped across systems and interfaces.*
+
+```
+Java (Backend)
+   ↳ REST APIs (Services)
+       ↳ MERN Stack (Interface)
+           ↳ AI Workflows (Applications)
 ```
 
-3. Commit, push, and run the workflow once manually from the **Actions** tab.
-4. The SVG above will populate automatically after the first run.
+| Signal | Area |
+|---|---|
+| Primary | Backend Systems |
+| Secondary | AI / ML |
+| Learning | Cloud Native |
 
-</details>
+---
 
-<br/>
+## 04 / Delivery Dashboard
+*Operational signal without narrative overhead.*
 
-## `09` Connect With Me
+**Runtime**
 
-<div align="center">
+`Core`      ████████████████████░░ 90%
+`Systems`   ███████████████████░░░ 84%
+`Delivery`  ████████████████████░░ 88%
 
-<a href="https://prathmesh-portfolio-five.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=0EA5E9" />
-</a>
-<a href="https://www.linkedin.com/in/prathmesh-yadav-a8959b293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0EA5E9" />
-</a>
-<a href="mailto:prathmeshyadav0269@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" />
-</a>
-<a href="https://github.com/Prathmesh-Yadav0269">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9" />
-</a>
+| Delivery Mode | Value |
+|---|---|
+| Architecture | Structured |
+| Observability | Explicit |
+| Iteration | Practical |
 
-</div>
+---
 
-<br/>
+## 05 / Workflow Signal
+*Compact flow, clear direction.*
 
-<div align="center">
+| Build | Review | Refine |
+|---|---|---|
+| Systems | Code | Design |
 
-*"Simplicity is the ultimate sophistication in engineering."*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
+## 06 / Engineering Philosophy
+*Visual principles, no explanation text.*
 
+`Readability` · `Reliability` · `Modularity` · `Simplicity` · `Testability` · `API Design`
+
+---
+
+## 07 / Capability Focus
+*Current emphasis shown as signal blocks.*
+
+| Skill | Depth |
+|---|---|
+| Java | ██████████████████░░ 90% |
+| DSA | █████████████████░░░ 84% |
+| Systems | █████████████████░░░ 86% |
+| Cloud | ██████████████░░░░░░ 72% |
+
+---
+
+## 08 / Technology Ecosystem
+*Compact capability surface, not a category list.*
+
+| Category | Tools |
+|---|---|
+| **Java** | Backend, Algorithms |
+| **APIs** | REST, Services |
+| **MERN** | React, Node |
+| **Data** | Mongo, SQL |
+| **DevOps** | Docker, CI |
+| **Cloud** | Infra, Deploy |
+| **AI** | ML, Workflow |
+| **Tools** | Git, Debug |
+
+---
+
+## 09 / Featured Engineering Work
+*Each project condensed into a compact panel.*
+
+| Project | Status | Stack | Purpose |
+|---|---|---|---|
+| **InsightIQ** | 🟡 In Progress | Java · JS | Backend exploration |
+| **OPSYNC** | 🟡 In Progress | Design · Docker | Coordination workflow |
+| **Portfolio** | 🟢 Maintaining | HTML · CSS | Profile UI |
+| **Java Sorting Algorithms** | 🔵 Learning | Java · DSA | Problem solving |
+| **Migraine Guardian** | 🟣 AI/ML | Python · Data | ML workflow focus |
+
+---
+
+## 10 / Capability Stack
+*Strengths and learning areas rendered as modules.*
+
+| Core | Comfortable | Learning |
+|---|---|---|
+| Backend, Systems, Problem Solving | Java, JavaScript, SQL | Cloud, Docker, Distributed Systems |
+
+---
+
+## 11 / Repository Surface
+*Repository context shown as compact cards.*
+
+| Repo | Tag | Context | Stack |
+|---|---|---|---|
+| **Portfolio** | Flagship | Static profile interface | HTML · CSS · Design |
+| **Migraine Guardian** | AI/ML | AI-oriented project context | Python · Data · ML |
+| **InsightIQ** | Learning | Backend-oriented exploration | Java · JS · Backend |
+| **Java Sorting Algorithms** | Study | Algorithm study surface | Java · DSA · Algorithms |
+
+---
+
+## 12 / Engineering Dashboard
+*Context, signal, and direction in one scan.*
+
+**Repository Overview**
+
+| | |
+|---|---|
+| Surface | Portfolio |
+| Signal | Java systems |
+| Learning | Cloud |
+| Context | Open repositories |
+
+**GitHub Context**
+
+| | |
+|---|---|
+| Activity | Visible as context |
+| Languages | Java · JavaScript · SQL |
+| Profile | Simple public signal |
+
+---
+
+## 13 / Learning Dashboard
+*Progress shown through compact bars.*
+
+**Current Study**
+
+`Java`    ██████████████████░░ 90%
+`Cloud`   ██████████████░░░░░░ 72%
+`Docker`  ████████████░░░░░░░░ 64%
+
+**Building Knowledge**
+
+`CI/CD`   ████████████░░░░░░░░ 60%
+`DS`      █████████████░░░░░░░ 68%
+`Systems` ██████████████░░░░░░ 74%
+
+---
+
+## 14 / Roadmap Timeline
+*Forward direction captured in compact steps.*
+
+- [ ] **Java** — Deepen backend fundamentals
+- [ ] **Distributed Systems** — Strengthen service boundaries
+- [ ] **Docker** — Grow practical delivery familiarity
+- [ ] **Cloud** — Increase deployment fluency
+- [ ] **System Design** — Connect scale with clarity
+
+---
+
+## 15 / Architecture Blueprint
+*Key architectural values represented visually.*
+
+`Modularity` · `Clear Boundaries` · `API Design` · `Observability`
+
+---
+
+## 16 / Developer Console
+*Terminal state and runtime signal.*
+
+```
+$ workspace / build
+> Boot sequence started
+> Runtime preparing
+> Loading engineering modules...
+✓ Java
+✓ MERN
+✓ Docker
+✓ Distributed Systems
+✓ AI Integration
+Status: INITIALIZING
+```
+
+**Runtime State**
+
+`Core`     ██████████████████░░ 90%
+`Systems`  █████████████████░░░ 84%
+`Delivery` ██████████████████░░ 88%
+
+`Ready` · `Observe` · `Scale`
+
+---
+
+## 17 / Principle Signals
+*Short values, built for scan speed.*
+
+> Readable systems endure.
+
+> Architecture is communication.
+
+> Good abstractions justify their cost.
+
+---
+
+## 18 / Signal Units
+*Small reusable modules that reinforce the same system.*
+
+**Technology Pills**
+`Java` `System Design` `AI` `Docker` `Cloud` `MERN`
+
+**Signal Chips**
+`Architecture` `Status` `Progress`
+
+---
+
+<div align="right">
+<sub>Structured engineering profile · reusable system · scan-first</sub>
 </div>
